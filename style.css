@@ -1,0 +1,43 @@
+h1{
+
+    color:green;
+     margin-left:40px;
+}
+
+.header{
+    background-color:lightblue;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+
+
+    display:flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+
+}
+p{
+    text-align: center;
+}
+
+body{
+
+    background-color:#EF8899;
+    
+    }
+
+    a:link{
+        color:darkblue
+    }
+    a:visited{
+        color:purple
+    }
+
+    .item:hover{
+
+transform: scale(1.2);
+
+    }
+
